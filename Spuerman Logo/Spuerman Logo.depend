@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574173049 source:f:\study\fall 2019\computer graphics lab\graphics code practice\spuerman logo\supermanlogo.cpp
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glut.h>
+

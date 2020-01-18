@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574184278 source:f:\study\fall 2019\computer graphics lab\graphics code practice\batman logo\batman logo.cpp
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<cmath>
+
